@@ -1,6 +1,8 @@
 {
+    "actionOnStepFail": null, 
     "concurrency": 1, 
     "enabled": true, 
+    "externalUuid4": "480f1bca-04df-4063-9158-b6ae4484b938", 
     "isBlueprint": true, 
     "key": "githubrepositorybackups", 
     "links": [

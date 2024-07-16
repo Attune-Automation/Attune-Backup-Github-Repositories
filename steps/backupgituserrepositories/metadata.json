@@ -1,5 +1,7 @@
 {
+    "actionOnStepFail": null, 
     "enabled": true, 
+    "externalUuid4": "6676988e-4e6d-4ebd-aa6e-251330b38c1a", 
     "interpreter": 1, 
     "key": "backupgituserrepositories", 
     "name": "Backup git user repositories", 
